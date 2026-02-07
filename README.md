@@ -13,6 +13,6 @@
 
 ## 📂 Featured Repositories
 - [NTI-CCNA-v7-Labs](https://github.com/Mostafa-Hussein921/NTI-CCNA-v7-Labs): All my networking tasks and topologies.
-- [MSP-Cyber-Security](رابط_مشروع_MSP_هنا): Security write-ups and offensive labs.
+- [MSP-Cyber-Security](https://github.com/Mostafa-Hussein921/MSP-Cyber-Security): Security write-ups and offensive labs.
 
 📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/mostafa-hussein921)
